@@ -1,6 +1,6 @@
 # Base configs
-image_fulls_loc: "/images/fulls"
-image_thumbs_loc: "/images/thumbs"
+image_fulls_loc: "rishikagopinath.com/images/fulls"
+image_thumbs_loc: "rishikagopinath.com/images/thumbs"
 
 # UI configs
 title: "Rishika Gopinath's Portfolio"
